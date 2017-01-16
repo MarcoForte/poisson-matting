@@ -1,7 +1,6 @@
 from __future__ import division
 
 import numpy as np
-import scipy.misc
 import scipy.ndimage
 import cv2
 from numba import jit
