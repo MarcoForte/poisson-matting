@@ -1,7 +1,9 @@
 # poisson-matting
-Python of poisson matting method described in   
+Python implementation of poisson matting method described in   
 Jian Sun, Jiaya Jia, Chi-Keung Tang, and Heung-Yeung Shum. 2004. Poisson matting. ACM Trans. Graph. 23, 3 (August 2004), 315-321. DOI=http://dx.doi.org/10.1145/1015706.1015721
 http://www.cs.virginia.edu/~gfx/courses/2006/DataDriven/bib/matting/sun04.pdf
+
+This implementation only covers the global poisson matting part of the paper at present.
 
 
 ### Requirements
